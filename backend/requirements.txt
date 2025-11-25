@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain-google-genai
+langchain
+beautifulsoup4
+requests
+pydantic
+python-dotenv
